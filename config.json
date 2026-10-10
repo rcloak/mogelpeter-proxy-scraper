@@ -11,7 +11,8 @@
         "https://raw.githubusercontent.com/Anonym0usWork1221/Free-Proxies/main/proxy_files/https_proxies.txt",
         "https://raw.githubusercontent.com/roosterkid/openproxylist/main/HTTPS_RAW.txt",
         "https://raw.githubusercontent.com/officialputuid/KangProxy/KangProxy/https/https.txt",
-        "https://raw.githubusercontent.com/officialputuid/KangProxy/KangProxy/http/http.txt"
+        "https://raw.githubusercontent.com/officialputuid/KangProxy/KangProxy/http/http.txt",
+        "https://rcloak.com/api/proxies/raw?protocol=http"
     ],
     "socks5_links": [
         "https://raw.githubusercontent.com/B4RC0DE-TM/proxy-list/main/SOCKS5.txt",
@@ -37,6 +38,7 @@
         "https://raw.githubusercontent.com/Zaeem20/FREE_PROXIES_LIST/master/socks5.txt",
         "https://raw.githubusercontent.com/prxchk/proxy-list/main/socks5.txt",
         "https://raw.githubusercontent.com/ALIILAPRO/Proxy/main/socks5.txt",
-        "https://raw.githubusercontent.com/zloi-user/hideip.me/main/socks5.txt"
+        "https://raw.githubusercontent.com/zloi-user/hideip.me/main/socks5.txt",
+        "https://rcloak.com/api/proxies/raw?protocol=socks5"
     ]
 }
